@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Inconsolata');
+
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #6a378f;
+    font-family: 'Inconsolata', monospace; 
+}
+
+h1 {
+    color: #ffffff;
+    font-size: 60px;
+}
